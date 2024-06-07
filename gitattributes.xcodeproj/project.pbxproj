@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4227FACB2C12C94400AB6586 /* SectionDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4227FACA2C12C94400AB6586 /* SectionDetailView.swift */; };
 		428FA43E2C12C3F000517215 /* gitattributesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 428FA43D2C12C3F000517215 /* gitattributesApp.swift */; };
 		428FA4402C12C3F000517215 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 428FA43F2C12C3F000517215 /* ContentView.swift */; };
 		428FA4422C12C3F200517215 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 428FA4412C12C3F200517215 /* Assets.xcassets */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4227FACA2C12C94400AB6586 /* SectionDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionDetailView.swift; sourceTree = "<group>"; };
 		428FA43A2C12C3F000517215 /* gitattributes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gitattributes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		428FA43D2C12C3F000517215 /* gitattributesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitattributesApp.swift; sourceTree = "<group>"; };
 		428FA43F2C12C3F000517215 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				428FA4482C12C3F200517215 /* gitattributes.xcdatamodeld */,
 				428FA4432C12C3F200517215 /* Preview Content */,
 				428FA46C2C12C5CE00517215 /* SectionView.swift */,
+				4227FACA2C12C94400AB6586 /* SectionDetailView.swift */,
 			);
 			path = gitattributes;
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 				428FA4472C12C3F200517215 /* Persistence.swift in Sources */,
 				428FA44A2C12C3F200517215 /* gitattributes.xcdatamodeld in Sources */,
 				428FA46D2C12C5CE00517215 /* SectionView.swift in Sources */,
+				4227FACB2C12C94400AB6586 /* SectionDetailView.swift in Sources */,
 				428FA4402C12C3F000517215 /* ContentView.swift in Sources */,
 				428FA43E2C12C3F000517215 /* gitattributesApp.swift in Sources */,
 			);
