@@ -11,6 +11,6 @@ import CoreData
 struct SectionView: View {
     // do something here
     var body: some View {
-            Text("Section Header")
+            Text("Section Header New")
         }
 }
