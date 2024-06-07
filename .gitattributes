@@ -1,0 +1,2 @@
+# Resolve project configuration files using union merge
+*.pbxproj text -crlf -diff -merge=union

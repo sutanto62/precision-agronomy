@@ -16,6 +16,7 @@
 		428FA4542C12C3F200517215 /* gitattributesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 428FA4532C12C3F200517215 /* gitattributesTests.swift */; };
 		428FA45E2C12C3F200517215 /* gitattributesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 428FA45D2C12C3F200517215 /* gitattributesUITests.swift */; };
 		428FA4602C12C3F200517215 /* gitattributesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 428FA45F2C12C3F200517215 /* gitattributesUITestsLaunchTests.swift */; };
+		428FA46D2C12C5CE00517215 /* SectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 428FA46C2C12C5CE00517215 /* SectionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		428FA4592C12C3F200517215 /* gitattributesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gitattributesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		428FA45D2C12C3F200517215 /* gitattributesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitattributesUITests.swift; sourceTree = "<group>"; };
 		428FA45F2C12C3F200517215 /* gitattributesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitattributesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		428FA46C2C12C5CE00517215 /* SectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				428FA4462C12C3F200517215 /* Persistence.swift */,
 				428FA4482C12C3F200517215 /* gitattributes.xcdatamodeld */,
 				428FA4432C12C3F200517215 /* Preview Content */,
+				428FA46C2C12C5CE00517215 /* SectionView.swift */,
 			);
 			path = gitattributes;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 			files = (
 				428FA4472C12C3F200517215 /* Persistence.swift in Sources */,
 				428FA44A2C12C3F200517215 /* gitattributes.xcdatamodeld in Sources */,
+				428FA46D2C12C5CE00517215 /* SectionView.swift in Sources */,
 				428FA4402C12C3F000517215 /* ContentView.swift in Sources */,
 				428FA43E2C12C3F000517215 /* gitattributesApp.swift in Sources */,
 			);
